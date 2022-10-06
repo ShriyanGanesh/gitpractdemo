@@ -6,6 +6,9 @@ public class CartPage {
 		// TODO Auto-generated method stub
 		
 		System.out.println("fwihih");
+		
+		System.out.println("ojcowjw");
+		System.out.println("dewjoij");
 
 	}
 
