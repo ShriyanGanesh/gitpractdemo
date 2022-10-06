@@ -6,6 +6,8 @@ public class Product {
 		// TODO Auto-generated method stub
 		System.out.println("product page");
 		System.out.println("product page3333");
+		System.out.println("product ohjo");
+		System.out.println("product 565654");
 
 	}
 
